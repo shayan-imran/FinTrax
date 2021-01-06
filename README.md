@@ -2,6 +2,9 @@
 
 Financial Portfolio Tracker!
 
+LIVE URL:
+https://fintrax1.herokuapp.com/
+
 Simply 
 1. register for a free account 
 2. add cash 
