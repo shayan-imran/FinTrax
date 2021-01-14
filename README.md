@@ -25,3 +25,5 @@ With all the complicated portfolio trackers out there, I wanted to create someth
 ## License and Usage :
 
 This project is completely open-source and free-to-use. But you will need to mention about its great, super awesome author XD (JK, use it anywhere you want, I really don't care.) PS, Happy Coding! 
+
+![alt text](https://raw.githubusercontent.com/shayan-imran/FinTrax/main/SCREENSHOTS1.jpg)
